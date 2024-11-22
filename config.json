@@ -1,0 +1,8 @@
+{
+    "use_proxy": false,
+    "raid_count": 500,
+    "min_raid_delay": 10,
+    "max_raid_delay": 26,
+    "account_delay": 5,
+    "countdown_loop": 3800
+}
